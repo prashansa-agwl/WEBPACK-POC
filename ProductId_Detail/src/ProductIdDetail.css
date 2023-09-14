@@ -1,0 +1,11 @@
+.heading{
+    margin: 10px;
+    justify-content: center;
+    display:flex
+}
+.listGrp{
+    margin: 0 auto;
+    width: 400px;
+    display: flex;
+    text-align: center;
+}
