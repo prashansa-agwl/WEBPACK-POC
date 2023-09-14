@@ -1,0 +1,52 @@
+[{
+    "id" :"1",
+    "title" : "Rose Paradise Chocolate cake",
+    "description" : {
+        "flavour" : "Chocolate",
+        "Weight" : "half kg",
+        "serves" : "4-6 People",
+        "price": "800"
+    }
+}, 
+{
+    "id" :"2",
+    "title" : "Crunchy Kit Kat cake",
+    "description" : {
+        "flavour" : "Chocolate",
+        "Weight" : "half kg",
+        "serves" : "4-6 People",
+        "price": "850"
+    }
+},
+{
+    "id" :"3",
+    "title" : "Butterscotch cake",
+    "description" : {
+        "flavour" : "Butterscotch",
+        "Weight" : "half kg",
+        "serves" : "4-6 People",
+        "price": "800"
+    }
+}, 
+{
+    "id" :"4",
+    "title" : "Dry Fruit Walnut cake",
+    "description" : {
+        "flavour" : "Dry Fruits",
+        "Weight" : "1 kg",
+        "serves" : "6-8 People",
+        "price": "1000"
+    }
+},
+{
+    "id" :"5",
+    "title" : "Designer Floral cake",
+    "description" : {
+        "flavour" : "Butterscotch",
+        "Weight" : "1 kg",
+        "serves" : "10-12 People",
+        "price": "1500"
+    }
+}
+  
+]
